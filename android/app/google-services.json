@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "577243564123",
+    "project_id": "phenomenaltechnic",
+    "storage_bucket": "phenomenaltechnic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577243564123:android:8ef2225af44d33a7c6d77e",
+        "android_client_info": {
+          "package_name": "com.phenomenal.phenomenaltechnic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577243564123-129o9ni5a0elpij8e2gs4uv3d5j2hs6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phenomenal.phenomenaltechnic",
+            "certificate_hash": "eba95bd08ad66919794961b1977567b29d91d935"
+          }
+        },
+        {
+          "client_id": "577243564123-ic8vbgeopbq9tf12586p3c6888sc603p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNfJMPrO_XCvIzrYJreGT3ng1XWLf4FGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577243564123-ic8vbgeopbq9tf12586p3c6888sc603p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
